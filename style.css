@@ -1,0 +1,15 @@
+h1{
+	text-align : center;
+	text-shadow:0 0 2px #FFD100,0 0 30px #FFD100,0px 0px 5px #FFD100, 0 0 150px #FFD100;color:#FFD100;
+padding-top: 50px;
+font-size:55px;
+}
+
+body{
+background-color: black;
+}
+
+#Gif{display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

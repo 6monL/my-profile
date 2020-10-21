@@ -1,0 +1,76 @@
+h1{
+	text-align : center;
+	color : #FDD700;
+	padding-top: 50px;
+	font-family: "Staatliches";
+	font-size: 50px
+}
+
+#decode{
+	margin-top: 5px;
+	font-size:50%;
+}
+
+html{
+	background: url("https://media.giphy.com/media/TxVVB6PfWMjE4/source.gif");
+}
+
+body{
+    margin: -40px 100px auto 100px;
+    color: white;
+    background-color: black;
+    font-family: "Lato";
+    border-left: 5px double white;
+    border-right: 5px double white;
+}
+
+#En_tête {
+    padding: 20px 40px 20px 40px;
+    text-align: center;
+}
+
+.image {
+    border-radius: 50%;
+    border:5px solid white;
+}
+
+#audencia{
+position: relative; left: -115px;
+}
+
+#CAT{
+position: relative; left: 115px;
+}
+
+.bloc{
+	text-align: justify;
+	padding-right: 100px;
+	padding-left: 100px;
+}
+
+h2, h3{
+	color : #FDD700;
+	text-align: center;
+	font-family: "Staatliches";
+}
+
+a{
+	color : #FDD700;
+}
+
+
+
+.nomarge{
+	margin-top: 3px;
+	margin-left: 15px;
+}
+
+
+#LeSnow{
+	text-align : center;
+}
+
+#Snow{
+	 border:2px solid #FDD700;
+	 margin-bottom: 20px;
+}
